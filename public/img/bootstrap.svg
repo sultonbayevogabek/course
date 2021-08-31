@@ -1,0 +1,11 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path id="svg_2" data-original="#000000" fill="#219653" d="m348.657,17.343a8,8 0 0 0 -5.657,-2.343l-224,0a56.064,56.064 0 0 0 -56,56l0,368a56.064,56.064 0 0 0 56,56l272,0a56.064,56.064 0 0 0 56,-56l0,-320a8,8 0 0 0 -2.343,-5.657l-96,-96zm2.343,24.97l68.687,68.687l-28.687,0a40.045,40.045 0 0 1 -40,-40l0,-28.687zm-232,-11.313l216,0l0,40a56.064,56.064 0 0 0 56,56l40,0l0,224l-352,0l0,-280a40.045,40.045 0 0 1 40,-40zm272,448l-272,0a40.045,40.045 0 0 1 -40,-40l0,-72l352,0l0,72a40.045,40.045 0 0 1 -40,40z" xmlns="http://www.w3.org/2000/svg"/>
+  </g>
+  <text transform="matrix(1.43373 0 0 1.53911 -68.0964 -238.708)" stroke="#000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Montserrat'" font-size="30" id="svg_11" y="440.3448" x="130.4958" stroke-width="0" fill="#219653">BOOTSTRAP</text>
+  <text style="cursor: move;" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Montserrat'" font-size="150" id="svg_14" y="250" x="149" stroke-width="0" stroke="#000" fill="#219653">{ ; }</text>
+ </g>
+</svg>
